@@ -1,0 +1,13 @@
+name: python-sklearn-in-r-shiny
+title: python-sklearn-in-r-shiny
+username:
+account: jindalpankaj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2170159
+bundleId: 3053852
+url: https://jindalpankaj.shinyapps.io/python-sklearn-in-r-shiny/
+when: 1587630183.95931
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
